@@ -106,9 +106,7 @@ Contributions are welcome! Here are some ways you can contribute:
 4. Add support for sentence formation
 5. Improve the UI/UX
 
-## 📝 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🔍 Future Improvements
 
